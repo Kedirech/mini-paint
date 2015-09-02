@@ -45,6 +45,106 @@ div div {
   background: yellow;
 }
 
+.white.red{
+  background-color: orange;
+}
+
+.white.green{
+  background-color: purple;
+}
+
+.white.blue{
+  background-color: teal;
+}
+
+.white.yellow{
+  background-color: pink;
+}
+
+.red.green{
+  background-color: silver;
+}
+
+.red.blue{
+  background-color: mintcream;
+}
+
+.red.yellow{
+  background-color: lightpink;
+}
+
+.blue.green{
+  background-color: darkmagenta;
+}
+
+.yellow.green{
+  background-color: papayawhip;
+}
+
+.yellow.blue{
+  background-color: powderblue;
+}
+
+.red.green.blue{
+  background-color: peachpuff;
+}
+.red.green.yellow{
+  background-color: lavenderblush;
+}
+.red.green.white{
+  background-color: darkolivegreen;
+}
+
+.red.blue.yellow{
+  background-color: rosybrown;
+}
+.red.blue.white{
+  background-color: goldenrod;
+}
+.red.yellow.white{
+  background-color: mediumturquoise;
+}
+
+.green.blue.yellow{
+  background-color: limegreen;
+}
+.green.blue.white{
+  background-color: mediumspringgreen;
+}
+.green.yellow.white{
+  background-color: gray;
+}
+
+.blue.yellow.white{
+  background-color: blueviolet;
+}
+
+.red.green.blue.yellow.white{
+  background-color: deeppink;
+}
+
+.red.green.blue.white{
+  background-color: sienna;
+}
+
+.red.green.blue.yellow{
+  background-color: darkslategrey;
+}
+
+.red.green.yellow.white{
+  background-color: wheat;
+}
+
+.red.blue.yellow.white{
+  background-color: skyblue;
+}
+
+.green.blue.yellow.white{
+  background-color: ivory;
+}
+
+
+
 .pallette-white {
   background: white;
   height: 2%;
@@ -83,6 +183,13 @@ div div {
 }
 
 .pallette-blue {
+  background: blue;
+  height: 2%;
+  width: 1%;
+  padding: 10px;
+}
+
+.brush-select {
   background: blue;
   height: 2%;
   width: 1%;
